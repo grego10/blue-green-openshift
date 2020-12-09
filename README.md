@@ -1,6 +1,6 @@
 # Blue Green Deployments
 
-The master is blue, the branch is green.
+The master is blue, the branch is green. create a branche green
 
 Deploy from OSEv3.
 
